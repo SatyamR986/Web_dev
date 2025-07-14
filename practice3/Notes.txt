@@ -1,0 +1,4 @@
+CLS Cumulative Layout Shift --- Page load huda katiko shift hunxa vanne kura.
+LCP Largest Contentful Paint --- Sabse thulo image load huna kati time lagxa vanne kura
+FID First Input Delay --- Input processing type , for ex: pressing a button , kati time lagxa
+FCP First Contentful Paint --- Sabse suruko image load huna kati time lagxa vanne kura
